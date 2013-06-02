@@ -1,5 +1,5 @@
 {
-	"name"             : "and/doctrine_patched",
+	"name"             : "logical-and/doctrine-patched",
 	"description"      : "Patches for doctrine",
 	"license"          : "MIT",
 	"authors"          : [
